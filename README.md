@@ -1,6 +1,6 @@
 #### Hi, it’s Iris.
 
-[Cyanze](https://cyanze-two.vercel.app/) — inspired by the cyan flame burning at 2000°C.  
+[Cyanze](https://cyanze.vercel.app/) — inspired by the cyan flame burning at 2000°C.  
 This is where I capture my thoughts and moments through development notes, reading, and daily life.
 
 

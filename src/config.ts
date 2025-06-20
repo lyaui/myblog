@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://cyanze-two.vercel.app/",
+  website: "https://cyanze.vercel.app/",
   author: "Iris Huang",
   profile: "https://satnaing.dev/",
   desc: "This is where I capture my thoughts and moments through development notes, reading, and daily life.",
