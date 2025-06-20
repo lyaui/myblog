@@ -1,7 +1,8 @@
-#### Hi, I’m Iris
+#### Hi, it’s Iris.
 
-This is my personal blog where I share development notes, life stories, travel journals, and book reflections —  
-leaving little marks for every chapter of myself.
+[Cyanze](https://cyanze-two.vercel.app/) — inspired by the cyan flame burning at 2000°C.  
+This is where I capture my thoughts and moments through development notes, reading, and daily life.
+
 
 _
 
