@@ -5,16 +5,14 @@ export const SITE = {
   desc: "This is where I capture my thoughts and moments through development notes, reading, and daily life.",
   title: "Cyanze",
   ogImage: "astropaper-og.jpg",
-  lightAndDarkMode: true,
-  postPerIndex: 4,
-  postPerPage: 4,
+  lightAndDarkMode: false,
+  postPerIndex: 3,
+  postPerPage: 10,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
-  showArchives: true,
+  showArchives: false,
   showBackButton: true, // show back button in post detail
   editPost: {
-    enabled: true,
-    text: "Suggest Changes",
-    url: "https://github.com/satnaing/astro-paper/edit/main/",
+    enabled: false,
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
