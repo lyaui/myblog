@@ -1,37 +1,55 @@
 ---
 layout: ../layouts/AboutLayout.astro
 title: "About"
+updated: "2025-06-22T00:00:00.000Z"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+我是 Iris，來自台灣的前端工程師，容易產生 FOMO 和比較心的內向 I 人。
 
-![Astro Paper](public/astropaper-og.jpg)
+在學時主修行銷與經濟，現在專注於前端開發，喜歡透過程式創造美好且實用的網頁體驗。主要使用 React, NextJS, TypeScript 等技術，也對 UI/UX 設計充滿興趣。
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+嚮往極簡生活，相信這樣能讓人更專注於真正重要的事物。<br>
+目前正在整理人生清單，希望能持續學習、探索世界、不斷成長。
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+---
 
-## Features
+#### 語言
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+- 英文：正在努力學習中
+- 日文：從 N2 退化到 N87，希望未來能重新拾起
+- 韓文：停留在 40 音階段
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+#### 理財
 
-and so much more.
+- 定期定額長期投資、股災加碼、沒膽 all in
+- 指數懶人投資信仰者，只買 VTI 和 0050
+- 終極目標是達成 Barista FIRE，最近也在思考不要把錢留到死
 
-## Show your support
+#### 旅遊
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+- 喜歡自助旅行，但過程中常感到疲憊，總在期待與勞累間拉扯
+- 足跡：東京、福州、曼谷、紐約、釜山、新加坡
+- 想去：日本、首爾、倫敦、北歐
+- 夢想清單：智利、納米比亞
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+#### 繪畫
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+- 手繪：喜歡素描和不透明水彩，透明水彩苦手
+- 電繪：喜歡畫宅圖，使用工具 SAI 和 CSP
+- 很久沒畫圖了，現在有點害怕重拾畫筆，希望未來能再次開始
 
-Kyay zuu! 🙏🏼
+#### 音樂
+
+- 以前常聽：西洋流行音樂、西洋搖滾、Vocaloid、アニソン
+- 現在常聽：City-Pop、K-Pop, 日韓 R&B
+- 喜歡唱日K，每次聚會總是努力避免重複曲目
+- 2025/6 開始學習長笛和樂理，使用樂器 YAMAHA YFL-272
+
+#### 宅
+
+- 龍族拼圖退役 9 年 6X 皇冠玩家，E組水新手龍首抽火龍女，最喜歡的角色是覺醒月讀和ㄇㄖㄖ
+- 喜歡看日韓動畫與漫畫，工作後偏愛開掛紓壓爽作
+- 最近沈迷於韓國網文翻譯小說
+
+<br>
+<p class="text-right">2025.06.22</p>
