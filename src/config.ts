@@ -1,7 +1,7 @@
 export const SITE = {
   website: "https://cyanze.vercel.app/",
   author: "Iris Huang",
-  profile: "https://satnaing.dev/",
+  profile: "",
   desc: "This is where I capture my thoughts and moments through development notes, reading, and daily life.",
   title: "Cyanze",
   ogImage: "astropaper-og.jpg",
@@ -13,6 +13,8 @@ export const SITE = {
   showBackButton: true, // show back button in post detail
   editPost: {
     enabled: false,
+    text: "Suggest Changes",
+    url: "https://github.com/satnaing/astro-paper/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
