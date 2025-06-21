@@ -14,11 +14,11 @@ const { title, description, pubDatetime, modDatetime, timezone } = data;
 
 const headerProps = {
   style: { viewTransitionName: slugifyStr(title) },
-  class: "text-lg font-medium decoration-dashed hover:underline",
+  class: "text-lg font-medium decoration-dashed hover:text-[#80FFEA]",
 };
 ---
 
-<li class="my-10">
+<li class="mb-14">
   <a
     href={getPath(id, filePath)}
     class="inline-block text-lg font-medium text-accent decoration-dashed underline-offset-4 focus-visible:no-underline focus-visible:underline-offset-0"
